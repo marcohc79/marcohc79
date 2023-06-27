@@ -1,6 +1,6 @@
 # Hello 👋
 
-My name is Marco, I'm form Argentina, I'm a Bachelor's degree student in Systems Analysis at the University of Buenos Aires and I'm a Operador in Command center.
+My name is Marco, I'm form Argentina, I'm a Bachelor's degree student in Systems Analysis at the University of Buenos Aires and I'm a Operador in Command Center.
 
 ## About Me
 
